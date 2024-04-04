@@ -188,13 +188,13 @@ Calinski Harabasz Score: 21610.55106832665
 Davies Bouldin Score: 0.601670692036545
 ```
 
-![Elbow Method](deliverables\cluster\elbow.png) 
+![Elbow Method](\deliverables\cluster\elbow.png) 
 
-![K-Means Clustering](deliverables\cluster\kmean_score.png)
+![K-Means Clustering](\deliverables\cluster\kmean_score.png)
 
-![K-Means Clustering](deliverables\cluster\kmeans_vis.png)
+![K-Means Clustering](\deliverables\cluster\kmeans_vis.png)
 
-![k-means feature var](deliverables\cluster\kmeans_feature_var.png)
+![k-means feature var](\deliverables\cluster\kmeans_feature_var.png)
 
 ##### HDBSCAN Clustering
 Clustering analysis utilizing the HDBSCAN algorithm was conducted, with Bayesian Optimization applied to determine the best hyperparameters and scores. The optimized results for the HDBSCAN algorithm are presented below:
@@ -207,11 +207,11 @@ Calinski Harabasz Score: 291.69440464935377
 Davies Bouldin Score: 0.9342121811630062
 Number of Clusters: 43
 ```
-![HDBSCAN Clustering](deliverables\cluster\hdbscan_vis.png)
+![HDBSCAN Clustering](\deliverables\cluster\hdbscan_vis.png)
 
-![HDBSCAN Clustering](deliverables\cluster\hdbscan_feature_var.png)
+![HDBSCAN Clustering](\deliverables\cluster\hdbscan_feature_var.png)
 
-![HDBSCAN RANK](deliverables\cluster\hdb_feature_rank.png)
+![HDBSCAN RANK](\deliverables\cluster\hdb_feature_rank.png)
 
 
 
@@ -228,11 +228,11 @@ Calinski Harabasz Score: 156.02186096682343
 Davies Bouldin Score: 0.9615909394748148
 Number of Clusters: 33
 ```
-![OPTICS Clustering](deliverables\cluster\optics_vis.png)
+![OPTICS Clustering](\deliverables\cluster\optics_vis.png)
 
-![OPTICS Clustering](deliverables\cluster\optics_feature_var.png)
+![OPTICS Clustering](\deliverables\cluster\optics_feature_var.png)
 
-![OPTICS RANK](deliverables\cluster\optics_feature_rank.png)
+![OPTICS RANK](\deliverables\cluster\optics_feature_rank.png)
 
 
 ### Conclusion
