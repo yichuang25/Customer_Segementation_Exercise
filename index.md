@@ -19,7 +19,7 @@ This documentation serves to provide a comprehensive understanding of the dashbo
 
 Below is a diagram of the data tables utilized in the dashboard.
 
-![image-20240429113717827](\dashboard\diagram.png)
+![image-20240429113717827](E:\GitHub\Valley_Exercise\dashboard\diagram.png)
 
 ### Database Connection
 
