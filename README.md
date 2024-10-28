@@ -1,13 +1,13 @@
-# Valley Financial Institution Analytics Project
+# Customer Segementation Project
 ## Executive Summary
-This project, part of the Analytics Engineer Take Home Assessment for Valley Financial Institution, aimed to segment customers based on behavior and transaction patterns using data from the Transaction DataMart, Customer Data, and BLS Statistics. Through data cleaning, normalization, and analysis utilizing K-Means, HDBSCAN, and OPTICS algorithms, we sought to uncover distinct customer groups. The analysis revealed that while K-Means suggested a simplistic bifurcation of the customer base, OPTICS provided a nuanced segmentation with 33 clusters, balancing detail and interpretability.
+This project aimed to segment customers based on behavior and transaction patterns using data from the Transaction DataMart, Customer Data, and BLS Statistics. Through data cleaning, normalization, and analysis utilizing K-Means, HDBSCAN, and OPTICS algorithms, we sought to uncover distinct customer groups. The analysis revealed that while K-Means suggested a simplistic bifurcation of the customer base, OPTICS provided a nuanced segmentation with 33 clusters, balancing detail and interpretability.
 
 The chosen OPTICS model outperformed others in terms of visualization and cluster reasonability, despite K-Means scoring higher on initial metrics. The comprehensive analysis highlighted the importance of demographic and transactional features in customer behavior patterns, guiding the segmentation process.
 
 Future efforts will concentrate on advancing feature engineering and model optimization to enhance customer segmentation. This will involve deeper transactional analysis and possibly integrating ensemble methods to refine the clustering approach and support strategic business decisions.
 
 ## Background
-This project was undertaken as part of the Analytics Engineer Take Home Assessment for Valley Financial Institution. The main objective was to analyze customer behavior and transaction patterns to effectively segment customers, leveraging both demographic data and transaction details.
+This project was undertaken as part of the Analytics Engineer Course. The main objective was to analyze customer behavior and transaction patterns to effectively segment customers, leveraging both demographic data and transaction details.
 
 ## Data Source
 1. **Transaction DataMart**: Consists of transaction amounts, timestamps, customer IDs, and transaction types.
